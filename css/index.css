@@ -141,6 +141,7 @@ article {
 
 .sobre h1 {
     text-align: center;
+    margin-top: 0px;
 }
 
 #infra {
@@ -273,6 +274,10 @@ article {
         display: flex;
         flex-direction: column;
         justify-content: center;
+    }
+    
+    .sobre h1 {
+        margin-top: 20px;
     }
 
     .lista_infra {
